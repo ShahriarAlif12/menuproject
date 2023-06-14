@@ -39,3 +39,30 @@ div menu a:hover  {
     width: 160px;
     height: 40px;
 }
+
+/* ................* about.html css  '''''''''''''''*/ 
+
+#imgme {
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 100px 25px 100px 0px;
+    box-shadow: 15px 10px 10px 5px black;
+    
+}
+#imgme:hover {
+    box-shadow: 15px 10px 10px 5px black;
+}
+
+#background {
+    background-image: url(img/pexels-pixabay-235986.jpg);
+    width:auto;
+    display: flex;
+    border-radius: 13px;
+    padding: 20px;
+
+
+}
+#background p {
+    color: azure;
+    margin-left: 15px;
+}
